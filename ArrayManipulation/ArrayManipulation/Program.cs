@@ -18,6 +18,9 @@ class ArrayManipulation
         Console.WriteLine("Original Array:");
         DisplayArray(numbers);
 
+        Console.WriteLine("Original Array:");
+        DisplayArray(numbers);
+
         // 4. Find the Sum
         int sum = CalculateSum(numbers);
         Console.WriteLine($"Sum of the array: {sum}");
@@ -114,4 +117,3 @@ class ArrayManipulation
         }
     }
 }
-m /rbs88/ArrayManipulation.git

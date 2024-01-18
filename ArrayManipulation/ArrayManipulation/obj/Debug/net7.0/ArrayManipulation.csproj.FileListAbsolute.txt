@@ -1,0 +1,14 @@
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\bin\Debug\net7.0\ArrayManipulation.exe
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\bin\Debug\net7.0\ArrayManipulation.deps.json
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\bin\Debug\net7.0\ArrayManipulation.runtimeconfig.json
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\bin\Debug\net7.0\ArrayManipulation.dll
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\bin\Debug\net7.0\ArrayManipulation.pdb
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\ArrayManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\ArrayManipulation.AssemblyInfoInputs.cache
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\ArrayManipulation.AssemblyInfo.cs
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\ArrayManipulation.dll
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\refint\ArrayManipulation.dll
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\ArrayManipulation.pdb
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\ArrayManipulation.genruntimeconfig.cache
+C:\Users\NELRUBY\Desktop\ArrayManipulation\ArrayManipulation\ArrayManipulation\obj\Debug\net7.0\ref\ArrayManipulation.dll
