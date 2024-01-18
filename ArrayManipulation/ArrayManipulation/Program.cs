@@ -87,8 +87,8 @@ class ArrayManipulation
             }
         }
 
-        Console.WriteLine($"Minimum value in the array: {min}");
-        Console.WriteLine($"Maximum value in the array: {max}");
+        Console.WriteLine($"Minimum value in the arrays: {min}");
+        Console.WriteLine($"Maximum value in the arrays: {max}");
     }
 
     // Helper method to search for an element in the array
